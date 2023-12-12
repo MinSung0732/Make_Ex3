@@ -1,0 +1,36 @@
+#background{
+    background-color: lightyellow;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 1200px;
+}
+#top{
+    background-color: yellow;
+    width: 1200px;
+    height: 400px;
+}
+#mid{
+    display: flex;
+    background-color: green;
+    width: 1200px;
+    height: 400px;
+}
+#left{
+    background-color: cornflowerblue;
+    width: 600px;
+}
+#right{
+    background-color: palegoldenrod;
+    width: 600px;
+}
+#bottom{
+    background-color: violet;
+    width: 1200px;
+    height: 400px;
+}
+
+
+#image{
+    display: none;
+}
